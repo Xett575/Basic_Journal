@@ -1,0 +1,9 @@
+C:\Users\Benjamin\AppData\Local\Temporary Projects\Basic_Journal\bin\Debug\Basic_Journal.exe
+C:\Users\Benjamin\AppData\Local\Temporary Projects\Basic_Journal\bin\Debug\Basic_Journal.pdb
+C:\Users\Benjamin\AppData\Local\Temporary Projects\Basic_Journal\bin\Debug\Basic_Journal.xml
+C:\Users\Benjamin\AppData\Local\Temporary Projects\Basic_Journal\obj\x86\Debug\Basic_Journal.Form1.resources
+C:\Users\Benjamin\AppData\Local\Temporary Projects\Basic_Journal\obj\x86\Debug\Basic_Journal.Resources.resources
+C:\Users\Benjamin\AppData\Local\Temporary Projects\Basic_Journal\obj\x86\Debug\Basic_Journal.vbproj.GenerateResource.Cache
+C:\Users\Benjamin\AppData\Local\Temporary Projects\Basic_Journal\obj\x86\Debug\Basic_Journal.exe
+C:\Users\Benjamin\AppData\Local\Temporary Projects\Basic_Journal\obj\x86\Debug\Basic_Journal.xml
+C:\Users\Benjamin\AppData\Local\Temporary Projects\Basic_Journal\obj\x86\Debug\Basic_Journal.pdb
